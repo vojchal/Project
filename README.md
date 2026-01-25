@@ -37,7 +37,7 @@ This is a Python project built in **Jupyter Lab** for interactive stock data ana
 ## Instructions
 
 1. **Download the project**
-   - Download `Scripts.zip` from this GitHub repository.
+   - Download `Scripts.zip` from this GitHub repository (or the `Scripts` folder with all the included files).
    - Extract the ZIP file to a folder of your choice.
    - Make sure **all files** remain together in one folder - the project relies on the folder structure for imports.
 
